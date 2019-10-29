@@ -3,3 +3,7 @@ yarn.lock
 build/
 test.jpeg
 *.tgz
+
+
+
+.gitignore
